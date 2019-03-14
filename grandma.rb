@@ -6,8 +6,9 @@ def speak_to_grandma(phrase)
 elsif phrase == phrase.upcase 
 puts "NO, NOT SINCE 1938!"
 
-else if phrase != phrase.upcase 
+else phrase != phrase.upcase 
 puts "HUH?! SPEAK UP, SONNY!"
+end
 
   puts speak_to_grandma(sdfasdf)
 
