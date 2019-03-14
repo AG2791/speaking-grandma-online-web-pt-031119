@@ -9,6 +9,7 @@ puts "NO, NOT SINCE 1938!"
 else phrase != phrase.upcase 
 puts "HUH?! SPEAK UP, SONNY!"
 end
+end
 
   puts speak_to_grandma(sdfasdf)
 
