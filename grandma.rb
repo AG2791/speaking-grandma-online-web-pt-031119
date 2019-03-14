@@ -1,8 +1,7 @@
 # Write a speak_to_grandma method.
 def speak_to_grandma(phrase)
-  if phrase == " "
-  
-    puts "NO, NOT SINCE 1938!"
+  if phrase == "I LOVE YOU GRANDMA!"
+     puts "NO, NOT SINCE 1938!"
 
 
 # Whatever you say to grandma, she should respond with
