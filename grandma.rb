@@ -11,7 +11,7 @@ puts "HUH?! SPEAK UP, SONNY!"
 end
 end
 
-  puts speak_to_grandma(sdfasdf)
+  puts speak_to_grandma("adfas")
 
 # If you shout, she can hear you (or at least she thinks so) 
 # and yells back
